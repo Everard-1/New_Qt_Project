@@ -1,0 +1,14 @@
+# Qt/CMake编译产物
+build/
+*.user
+*.user.*
+qrc_*.cpp
+moc_*.cpp
+ui_*.h
+*.o
+*.obj
+
+# 系统文件
+.DS_Store
+.vs/
+.vscode/
