@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 摘要：
 在大型项目和商业化项目中，Qt的开发工具应该选择VS Studio+CMake，下面介绍如何在VS2022中创建Qt项目。
 
@@ -90,3 +91,7 @@ target_link_libraries(${PROJECT_NAME} PRIVATE Qt5::Widgets)
 <!-- 这是一张图片，ocr 内容为： -->
 ![](https://cdn.nlark.com/yuque/0/2026/png/27393008/1774702099462-088a35cd-d24e-4c55-a7ac-3e8d558032fd.png)
 
+=======
+# New_Qt_Project
+创建Qt项目的正确方法
+>>>>>>> f0756c147daa7cce7519c4029b940f821f6785b6
